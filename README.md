@@ -1,7 +1,6 @@
 # 🎓📚 SMS - VB.Net School Management System
 
-[![GitHub stars](https://img.shields.io/github/stars/nturukunga/School-Management-System-SMS-
-?style=social)](https://github.com/yourusername/AngazaDaima)
+[![GitHub stars](https://img.shields.io/github/stars/nturukunga/School-Management-System-SMS-?style=social)](https://github.com/yourusername/AngazaDaima)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![VB.NET Version](https://img.shields.io/badge/VB.NET-4.8-blue.svg)](https://dotnet.microsoft.com)
 
